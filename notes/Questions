@@ -1,0 +1,3 @@
+Q: do we need to think about being able to use the FST (Fast Signal Trace Type)? It was mentioned in vcd2df paper as something that was rising in popularity but wasn’t being used at that time 
+  * FDT is a high-performance, compressed binary file format used to store digital waveforms from hardware description language (HDL) simulations. Developed by the creator of GTKWave, FST offers significantly faster reading and writing speeds than the standard Value Change Dump (VCD) format
+  * VCD is what the current dataset is in I think, but if it's outdated then FST might be something to consider
